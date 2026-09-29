@@ -32,3 +32,8 @@ new zip to the same project (Create deployment → upload). Update `lastmod` in 
 ## Checks done before hand-over (29.09.2026, in-app browser)
 - Zero external requests, Manrope 400–800 loaded from /fonts, no console errors.
 - Mobile (574 px) and desktop layouts render; CANTIS gone, nav = Services / About / Contact.
+
+## Update 29.09.2026 — Git route (replaces the zip upload)
+Repo: https://github.com/iuliagarbacea/digitalsage-site (private). Cloudflare Pages should be connected to it:
+Framework preset **None**, build command **empty**, build output directory **`site`**, production branch `main`.
+After that every `git push` deploys. `make-zip.js` and the zip are kept only as fallback.
