@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digitalsage.ro/sitemap.xml

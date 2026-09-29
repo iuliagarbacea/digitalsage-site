@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Digital Sage mark">
+  <!-- PROPOSAL v1: rounded square in brand base, a single sage-green "leaf" stroke.
+       The stroke reads as a leaf (sage) and as an upward path (analysis). -->
+  <rect width="64" height="64" rx="16" fill="#1B3A4B"/>
+  <path d="M18 44 C18 30, 30 20, 46 20 C46 36, 34 46, 20 46" fill="none" stroke="#7FA38C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 44 L40 24" fill="none" stroke="#7FA38C" stroke-width="3" stroke-linecap="round"/>
+</svg>
